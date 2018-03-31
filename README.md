@@ -9,35 +9,35 @@ wordpress 主题: smoke, 性冷淡风格，极简，适合用来写文章的朋�
 
 ## 特点
 
-[x] 简洁高效,精简css,js
+- [x]  简洁高效,精简css,js
 
-[x] 去除引用Google Fonts
+- [x] 去除引用Google Fonts
 
-[x] 引用国内Gravatar镜像
+- [x] 引用国内Gravatar镜像
 
-[x] 自带图片Lazyload
+- [x] 自带图片Lazyload
 
-[x] 引入主题框架后台实现自定义配置 
+- [x] 引入主题框架后台实现自定义配置 
 
-[x] 全局统一使用主题自带jQuery
+- [x] 全局统一使用主题自带jQuery
 
-[x] 去除WordPress在主题中注入的冗余代码
+- [x] 去除WordPress在主题中注入的冗余代码
 
-[x] 禁用WordPress自带emoji
+- [x] 禁用WordPress自带emoji
 
-[x] 自带阅读统计
+- [x] 自带阅读统计
 
-[x] 自带分页
+- [x] 自带分页
 
-[x] 自带点赞功能
+- [x] 自带点赞功能
 
-[x] 自带图片点击缩放插件
+- [x] 自带图片点击缩放插件
 
-[x] markdown 样式可轻松替换
+- [x] markdown 样式可轻松替换
 
-[x] 移动端适配
+- [x] 移动端适配
 
-[x] SEO支持良好
+- [x] SEO支持良好
 
 ## security
 
