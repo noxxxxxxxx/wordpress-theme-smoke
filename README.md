@@ -54,4 +54,4 @@ wordpress 主题: smoke, 性冷淡风格，极简，适合用来写文章的朋�
 
 [see the website](https://www.noxxxx.com)
 
-![](demo.png)
+![](screenshot.png)
