@@ -169,12 +169,15 @@ body,
 
 .entry-content {
   margin-top: 20px;
-
   p {
     line-height: 1.5;
     margin: 5px;
     word-break: initial;
     color: rgb(101, 109, 120);
+    img {
+      display: block;
+      margin: auto;
+    }
   }
   .read_more {
     margin-top: 10px;
